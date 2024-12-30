@@ -1,12 +1,12 @@
 I’m Shazan, a software engineer from Sri Lanka.
 Software Engineer with 5 years of experience building software solutions for various domains.
 
-✅ Programming Languages: C, C#, C++, Golang, PHP, Rust, JavaScript, Typescript, Python, Dart, Java, PL/pgSQL, PL/SQL, T-SQL, Lua, Ziglang 
-✅ Tech Stack: MS SQL Server, ASP .NET, Vue.JS, NodeJS (C++ based Plugin development), Next.JS, ReactJS, Flutter, Power BI, PostgreSQL, WebGL, DirectX, jQuery, Win32, AWS (CloudFront, IAM, EC2, S3), Git (GitHub, GitLab, Bitbucket), Subversion. 
-✅ Data Oriented Design, Test Driven Development, Domain Driven Development 
+✅ Programming Languages: C, C#, C++, Golang, PHP, Rust, JavaScript, Typescript, Python, Dart, Java, PL/pgSQL, PL/SQL, T-SQL, Lua, Ziglang \
+✅ Tech Stack: MS SQL Server, ASP .NET, Vue.JS, NodeJS (C++ based Plugin development), Next.JS, ReactJS, Flutter, Power BI, PostgreSQL, WebGL, DirectX, jQuery, Win32, AWS \(CloudFront, IAM, EC2, S3), Git (GitHub, GitLab, Bitbucket), Subversion. 
+✅ Data Oriented Design, Test Driven Development, Domain Driven Development \
 ✅ Observability Engineering (Azure App Insights, Prometheus, Grafana, OpenTelemtry)
 
-5 years of experience building web applications and services at agencies and start/scale-ups.
+5 years of experience building web applications and services at agencies and start/scale-ups. 
 5 years of experience building and maintaining Go projects.
 5 years experience with JavaScript/TypeScript in Node.js and React projects.
 Built APIs (RESTful, GraphQL, gRPC), (queue) workers, and third-party API integrations.
