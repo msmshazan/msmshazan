@@ -6,7 +6,7 @@ Software Engineer with 5 years of experience building software solutions for var
 ✅ Data Oriented Design, Test Driven Development, Domain Driven Development \
 ✅ Observability Engineering (Azure App Insights, Prometheus, Grafana, OpenTelemtry) 
 
-5 years of experience building web applications and services at agencies and start/scale-ups. \
+5 years of experience building web applications and services in startups and companies. \
 5 years of experience building and maintaining Go projects. \
 5 years experience with JavaScript/TypeScript in Node.js and React projects. \
 Built APIs (RESTful, GraphQL, gRPC), (queue) workers, and third-party API integrations. \
