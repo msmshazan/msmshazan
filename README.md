@@ -1,5 +1,4 @@
-I’m Shazan, a software engineer from Sri Lanka.
-Software Engineer with 5 years of experience building software solutions for various domains.
+I’m Shazan, a Software Engineer with 5 years of experience building software solutions for various domains.
 
 ✅ Programming Languages: C, C#, C++, Golang, PHP, Rust, JavaScript, Typescript, Python, Dart, Java, PL/pgSQL, PL/SQL, T-SQL, Lua, Ziglang \
 ✅ Tech Stack: MS SQL Server, ASP .NET, Vue.JS, NodeJS (C++ based Plugin development), Next.JS, ReactJS, Flutter, Power BI, PostgreSQL, WebGL, DirectX, jQuery, Win32, AWS \(CloudFront, IAM, EC2, S3), Git (GitHub, GitLab, Bitbucket), Subversion. \
