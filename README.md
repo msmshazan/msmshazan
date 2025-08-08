@@ -1,17 +1,8 @@
-I’m Shazan, a Software Engineer with 5 years of experience building software solutions for various domains.
+I’m Shazan, a Programmer building software solutions for various domains.
 
 ✅ Programming Languages: C, C#, C++, Golang, PHP, Rust, JavaScript, Typescript, Python, Dart, Java, PL/pgSQL, PL/SQL, T-SQL, Lua, Ziglang \
 ✅ Tech Stack: MS SQL Server, ASP .NET, Vue.JS, NodeJS (C++ based Plugin development), Next.JS, ReactJS, Flutter, Power BI, PostgreSQL, WebGL, DirectX, jQuery, Win32, AWS \(CloudFront, IAM, EC2, S3), Git (GitHub, GitLab, Bitbucket), Subversion. \
-✅ Data Oriented Design, Test Driven Development, Domain Driven Development \
-✅ Observability Engineering (Azure App Insights, Prometheus, Grafana, OpenTelemetry) 
-
-5 years of experience building web applications and services in startups and companies. \
-5 years of experience building and maintaining Go and .NET projects. \
-5 years experience with JavaScript/TypeScript in Node.js and React projects. \
-Built APIs (RESTful, GraphQL, gRPC), (queue) workers, and third-party API integrations. \
-Worked with various medical analyzers and device integrations. \
-I’m comfortable immersing myself in any business domain and pragmatically designing and building software. \
-Empathetic, with a humble mindset. I can quickly get up to speed in a new work environment and communicate effectively with team members and stakeholders. 
+✅ Data Oriented Design, Test Driven Development, Domain Driven Development 
 <!--
 ## Hi there 👋
 I'm Shazan 
